@@ -12,7 +12,6 @@
  
 </p>
 
-
 - 🌱 I’m currently learning Web Development, Programming, and other IT related subjects
   
 - 👯 I’m looking to collaborate on your open source projects
