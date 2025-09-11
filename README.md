@@ -1,4 +1,4 @@
-﻿
+<img width="948" height="1135" alt="image" src="https://github.com/user-attachments/assets/8835bb80-233d-40d9-b359-2da867a31fed" />﻿
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=FFFFFF&width=370&height=100&lines=Hi+%2C+I'm+Lakshi+Dinethma+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </p>
@@ -73,11 +73,11 @@
 <p align="left">
 
  <div align="left"  class="icons-social" style="margin-left: 10px;">
-        <a   target="_blank" href="www.linkedin.com/in/lakshi-dinethma-809875378/">
+        <a   target="_blank" href="https://www.linkedin.com/in/lakshi-dinethma-809875378">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;" ></a>
 		<a style="margin-left: 10px;" target="_blank" href="lakshidinethma345@gmail.com">
 				<img src="https://img.icons8.com/doodle/2x/gmail-new.png" style=" width:35px; height:43px;"></a>
-		<a style="margin-left: 5px;" target="_blank" href="@lakshi0122">
+		<a style="margin-left: 5px;" target="_blank" href="https://t.me/lakshi0122">
 					<img src="https://img.icons8.com/?size=100&id=MIMjVKoXINIT&format=png&color=000000" style=" width:37px; height:40px;"></a>
       </div>
 
