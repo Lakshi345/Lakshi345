@@ -1,5 +1,12 @@
 ﻿<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=3A10E5&width=370&height=100&lines=Hi+%2C+I'm+Lakshi+Dinethma+%F0%9F%91%8B" alt="Typing SVG" /></a>
+<picture>
+  <!-- GitHub Dark Mode එකේදී පේන සුදු පාට එක -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=FFFFFF&width=370&height=100&lines=Hi+%2C+I'm+Lakshi+Dinethma+%F0%9F%91%8B">
+  <!-- GitHub Light Mode එකේදී පේන කළු පාට එක -->
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=000000&width=370&height=100&lines=Hi+%2C+I'm+Lakshi+Dinethma+%F0%9F%91%8B">
+  <!-- Fallback (සාමාන්‍යයෙන් පේන එක) -->
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=000000&width=370&height=100&lines=Hi+%2C+I'm+Lakshi+Dinethma+%F0%9F%91%8B">
+</picture>
 </p>
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=Mahdiiye&color=brightgreen" alt="watching_count" />
